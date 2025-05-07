@@ -3,9 +3,9 @@
 ## Template
 
 ### Day X: Yth of Z, 2025
-**Today's Progress**:
+**Today's Progress**: Read through most of the introduction, making it to the part about the Linus terminal.
 
-**Thoughts:** 
+**Thoughts:** TOP is mind-numbingly boring until it gets to the Linux terminal part. Holy shit.
 
 **Link to work:**
 
