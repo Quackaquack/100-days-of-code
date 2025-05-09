@@ -35,3 +35,9 @@ It remains to be seen if I manage to stick with it, or if I end up abandoning th
 https://swcarpentry.github.io/shell-novice/
 
 
+### Day 3: 9th of May, 2025
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link to work:**
