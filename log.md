@@ -41,3 +41,10 @@ https://swcarpentry.github.io/shell-novice/
 **Thoughts:** Went well. Not as much time to work as yesterday, but that's fine. Used pomodoro effectively today as well. Hung out in VC with Hjalte and Maria for a while, as a sort of body boubling.
 
 **Link to work:**
+
+### Day 4: 10th of May, 2025
+**Today's Progress**: Very little. Added a dog.
+
+**Thoughts:** VERY tired, so I am not going to code an hour today. But I'm still satisfied by the fact that I coded AT ALL. That's not nothing, not at all.
+
+**Link to work:**
