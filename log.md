@@ -1,14 +1,5 @@
 # 100 Days Of Code - Log
 
-## Template
-
-### Day X: Yth of Z, 2025
-**Today's Progress**:
-
-**Thoughts:**
-
-**Link to work:**
-
 ## Log
 
 
@@ -46,5 +37,24 @@ https://swcarpentry.github.io/shell-novice/
 **Today's Progress**: Very little. Added a dog.
 
 **Thoughts:** VERY tired, so I am not going to code an hour today. But I'm still satisfied by the fact that I coded AT ALL. That's not nothing, not at all.
+
+**Link to work:**
+
+## Template
+
+### Day 5: 11/5/2025
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link to work:**
+
+## Template
+
+### Day : //2025
+**Today's Progress**:
+
+**Thoughts:**
 
 **Link to work:**
