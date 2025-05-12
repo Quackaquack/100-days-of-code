@@ -52,7 +52,7 @@ Also not super exciting when the result is as uninspiring as it is. Oh well, bab
 **Link to work:** https://quackaquack.github.io/the-odin-project/foundations/projects/recipes/index.html
 
 ### Day 6: 12/5/2025
-**Today's Progress**:
+**Today's Progress**: Completed Intro to CSS.
 
 **Thoughts:**
 
