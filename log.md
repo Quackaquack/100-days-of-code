@@ -67,6 +67,13 @@ Also not super exciting when the result is as uninspiring as it is. Oh well, bab
 
 ## Template
 
+### Day 8: 16/5/2025
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link to work:**
+
 ### Day : //2025
 **Today's Progress**:
 
